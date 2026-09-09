@@ -110,8 +110,8 @@ const SITE_CONFIG = {
   /* --- Headline service used by the homepage "Rewrite my resume" CTA --- */
   rewriteServiceId: "01",
   rewritePrice: "₹349",
-  buildPrice: "₹3999",                    // "Build my resume" service
-  buildPriceOriginal: "₹5999",            // struck-through original
+  buildPrice: "₹399",                    // "Build my resume" service
+  buildPriceOriginal: "₹599",            // struck-through original
   buildOffer: "33% off · limited period",
 
   /* --- Welcome popup (shows once per visit) ----------------------------
